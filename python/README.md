@@ -14,6 +14,7 @@ This folder contains hands-on Python exercises and mini-projects that build a st
 - Jupyter notebooks and Python scripts (`.py`)  
 - Annotated examples and key takeaways  
 - Practice problems and applied mini-projects
+- `madlib_story_generator.py`: Simple input-based story generator using string formatting.
 
 ## 🎯 Why This Matters
 
