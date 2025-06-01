@@ -1,64 +1,50 @@
 # Data Analyst Practice Labs
 
-Welcome to my personal learning repository!
-This space contains hands-on labs and practice projects as I develop and apply my skills in:
+Welcome to my personal learning repository. This space contains hands-on practice labs as I develop my skills in:
 
-- 🐍 Python for data cleaning, transformation, and automation  
-- 🧮 SQL for querying and analyzing relational data  
-- 📊 Excel for calculations, KPI tracking, and reports  
-- 📈 Power BI for interactive dashboards and data storytelling  
-
-I created this repo to reinforce my learning, track progress, and share my growth publicly as I train to become a professional **Data Analyst** with cloud fluency.
+- 🐍 **Python** for data cleaning, transformation, and automation  
+- 🛢️ **SQL** for querying and analyzing structured data  
+- 📊 **Excel** for modeling, formulas, and reporting  
+- 📈 **Power BI** for interactive dashboards and storytelling
 
 ---
 
-## 🔧 Tools & Technologies
+## 🛠 Tools & Technologies
 
-- **Python** (pandas, matplotlib)
-- **SQL** (PostgreSQL / BigQuery-style syntax)
-- **Excel** (formulas, pivot tables, dashboards)
-- **Power BI** (visualizations, DAX, filters)
-- **Git & GitHub** (version control)
+- Python (pandas, matplotlib)
+- SQL (PostgreSQL-style syntax)
+- Excel (pivot tables, formulas, KPI tracking)
+- Power BI (DAX, visuals, filters)
+- Git & GitHub for version control and documentation
 
 ---
 
 ## 📂 Folder Structure
+- `/excel/`: KPI trackers and dashboards
+- `/powerbi/`: Power BI report files and 
+- `/python/`: Jupyter notebooks and scripts
+- `/sql/`: Query exercises and case studies
+visuals
 
-data-analyst-practice-labs/
+Each folder includes:
 
-├── python-labs/ # Python scripts, notebooks, functions
-
-├── sql-practice/ # SQL query cases and exercises
-
-├── excel-skills/ # Budget sheets, calculators, formulas
-
-├── powerbi-dashboards/ # Power BI (.pbix files, visuals)
-
-└── README.md
-
-
-Each folder includes practice files and a `README.md` describing:
-- What I practiced
-- What I learned
-- Screenshots or sample output (where applicable)
+- Learning files (scripts, queries, dashboards)  
+- A `README.md` that explains what was practiced  
+- Visuals or outputs (where applicable)
 
 ---
 
-## 🧠 Why I Created This Repo
+## 🎯 Why I Created This Repo
 
-- To deepen my understanding through hands-on practice
-- To track and demonstrate my progress as an aspiring data analyst
-- To prepare effectively for job interviews and build a strong portfolio
-- To maintain consistency and accountability throughout my learning journey
+To reinforce my learning through hands-on practice, track my progress, and publicly document my journey toward becoming a professional data analyst.
 
 ---
 
-## 🚀 What’s Next
+## 🚀 What’s Coming
 
-Over the next few weeks, I’ll be adding:
-- New SQL and Power BI case studies
-- Python notebooks for data cleaning and automation
-- Capstone-ready projects in finance and eCommerce domains
+- More case studies and business-oriented SQL queries  
+- Python notebooks for data cleaning and analysis  
+- KPI dashboards and reporting use cases in Excel and Power BI
 
 ---
 
